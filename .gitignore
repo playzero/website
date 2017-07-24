@@ -7,3 +7,4 @@ coverage
 webpack/webpack-assets.json
 yarn-error.log
 src-example
+config.aws.json
