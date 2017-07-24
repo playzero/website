@@ -1,0 +1,47 @@
+//
+//
+//
+
+@import 'node_modules/bootstrap-sass/assets/stylesheets/_bootstrap-sprockets.scss';
+// @import 'node_modules/bootstrap-solarized-theme/sass/_variables-dark.scss';
+// @import './bootstrap-overrides.scss';
+@import 'node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+
+// $primary: 'Lato, Helvetica Neue, Helvetica, Roboto, sans-serif';
+// $pre: 'Consolas, Liberation Mono, Menlo, Courier, monospace';
+// $quote: 'Georgia, serif';
+
+.landingpage-image {
+  // background: green no-repeat center;
+  // background-image: url('/thumbnail.png');
+  // background-size: cover;
+}
+
+.Footer {
+  background-color: #111;
+  padding-bottom: 2rem;
+  color: #eee;
+
+  hr {
+    margin-top: 2rem;
+    border-color: #666;
+  }
+
+  .FooterRow {
+    margin-top: 2rem;
+  }
+
+  .copyright {
+    margin-left: 1rem;
+    font-size: 10px;
+    font-weight: thin;
+    font-style: italic;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1rem;
+  }
+
+}
